@@ -1,4 +1,4 @@
-# -Retail-Food-Delivery-Forecast-and-Answering-Business-Questions
+# Retail Food Delivery Forecast and Answering Business Questions
 
 Food delivery is a lifeline in our COVID world. In fact, it’s hard to believe that food delivery on such a large scale only became prevalent a few years ago.
 
